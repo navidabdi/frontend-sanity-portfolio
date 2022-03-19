@@ -23,7 +23,7 @@ const Skills = () => {
       });
     };
     fetchData();
-  }, []);
+  }, [setExperiences]);
 
   return (
     <>
