@@ -36,10 +36,11 @@
     ul {
       margin-top: 0.5rem;
       margin-left: 1rem;
+      width: 100%;
     }
     li {
-      font-size: 1rem;
-      line-height: 1.6rem;
+      line-height: 1.5rem;
+      word-break: break-word;
     }
     h4 {
       font-weight: 500;
