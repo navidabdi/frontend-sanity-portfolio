@@ -13,7 +13,7 @@ const SocialMedia = () => (
     >
       <BsLinkedin />
     </a>
-    <a target="_blank" rel="noreferrer" href="https://instagram.com/nabiabdii">
+    <a target="_blank" rel="noreferrer" href="https://instagram.com/nabiabdiii">
       <BsInstagram />
     </a>
     <a target="_blank" rel="noreferrer" href="https://webkima.com/">
